@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/systems_from_scratch.iml" filepath="$PROJECT_DIR$/.idea/systems_from_scratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/machine_learning_systems.iml" filepath="$PROJECT_DIR$/.idea/machine_learning_systems.iml" />
     </modules>
   </component>
 </project>
