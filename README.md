@@ -1,10 +1,24 @@
-This repository aims to both show and practice my skills through the implementation of various systems.
+This repository contains implementations of machine learning and deep learning models for study, experimentation, and reproducible research.
 
-**GAN:**
+# Machine Learning Systems
 
-This project includes a **WGAN-GP** implementation applied to the following datasets:
-* fashion MNIST ⏳
-* CIFAR-10
-* QuickDraw
-* CelebA
+This repository contains implementations of machine learning and deep learning models developed for study, experimentation, and research.
 
+Current projects include:
+
+- WGAN-GP
+  - Fashion-MNIST
+
+In progress:
+
+- StyleGAN3
+  - FFHQ
+
+Planned projects include:
+
+- Text-to-image diffusion models
+- Large Language Models (small-scale implementations)
+- Reinforcement Learning
+- Graph Neural Networks
+- Retrieval-Augmented Generation (RAG)
+- Other architectures and research-oriented experiments
